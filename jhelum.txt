@@ -1,2 +1,3 @@
  bulidings
  roads
+thanks
